@@ -1,0 +1,32 @@
+h1 {
+    color: darkred;
+    text-align: center;
+    font-size: 30px;
+    font-style: bold;
+}
+h2 {
+    color: black;
+    font-size: 15px;
+    font-style: italic;
+}
+p {
+    color: red;
+    font-size: 20px;
+    font-style: bold;
+}
+body {
+    background-color: skyblue;
+}
+.experience {
+    color: green
+}
+.skills {
+    color: blue;
+}
+.education {
+    color: purple;
+}
+.contact {
+    color: black;
+    font-style: italic;
+}
